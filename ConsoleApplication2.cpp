@@ -78,8 +78,8 @@ int main(int argc, char const* argv[]) {
     //argv[1] = "D:\\CPP\\Projects\\ConsoleApplication2\\libavmdl.so";
     //argv[2] = "D:\\CPP\\Projects\\ConsoleApplication2\\dump.so";
     //argc = 3;
-    argc = 2;
-    argv[1] = "D:\\CPP\\Projects\\ConsoleApplication2\\dumpX64.so";
+    //argc = 2;
+    //argv[1] = "D:\\CPP\\Projects\\ConsoleApplication2\\dumpX64.so";
     if (argc >= 4 || argc<=1) {
         cout << "if you has not original so file, pls use" << endl;
         cout << "\t./fix_so target.so" << endl;
